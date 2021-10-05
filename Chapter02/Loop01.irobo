@@ -1,0 +1,11 @@
+﻿# map: default.map
+
+# contoh script untuk menggambarkan
+# proses loop dengan n perulangan
+
+paintWhite
+repeat(4){
+    forward(2)
+    right
+}
+stopPainting
