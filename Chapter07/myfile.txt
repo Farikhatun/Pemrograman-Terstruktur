@@ -1,0 +1,2 @@
+Hallo, selamat pagi
+Ini adalah contoh sebuah file teks.
