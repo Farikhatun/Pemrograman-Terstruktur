@@ -1,2 +1,2 @@
-Nama  : Farikhatun Khoirur Rosyidah
-NIM   : K3521024
+\nNama  : Farikhatun Khoirur Rosyidah
+\nNIM   : K3521024
