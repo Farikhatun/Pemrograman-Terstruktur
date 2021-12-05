@@ -4,13 +4,13 @@ read2 = []
 
 for i in range(len(read)):
     hasil = read[i].replace('\n', '')
-    read2 += [hasil]
+    read2 += [int(hasil)]
 
 ganjil = 0
 genap = 0
 
 for data in range(len(read2)):
-    if(int(data)%2 == 0):
+    if(int(read2[data])%2 == 0):
         ganjil += 1
     else:
         genap += 1
