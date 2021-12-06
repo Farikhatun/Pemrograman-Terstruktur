@@ -7,7 +7,7 @@ mySet.remove(' ')
 myList = list(mySet)
 myList.sort(reverse=True)
 
-n = 2
+n = 0
 
 file = myFile.replace(myList[0], chr(ord(myList[0])-n))
 
